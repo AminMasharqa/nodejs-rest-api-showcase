@@ -733,7 +733,7 @@ MIT License - Free for commercial and personal use
 
 **Amin Masharqa**
 - 🐙 **GitHub**: [@AminMasharqa](https://github.com/AminMasharqa)
-- 💼 **LinkedIn**: [Connect with me](linkedin.com/in/amin-masharqaba28223)
+- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/amin-masharqaba28223)
 - 📧 **Email**: [Contact for opportunities](mailto:aminw999mn@gmail.com)
 
 ### **About This Project**
