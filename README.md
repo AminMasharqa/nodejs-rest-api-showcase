@@ -733,8 +733,8 @@ MIT License - Free for commercial and personal use
 
 **Amin Masharqa**
 - 🐙 **GitHub**: [@AminMasharqa](https://github.com/AminMasharqa)
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aminmasharqa)
-- 📧 **Email**: [Contact for opportunities](mailto:your-email@example.com)
+- 💼 **LinkedIn**: [Connect with me](linkedin.com/in/amin-masharqaba28223)
+- 📧 **Email**: [Contact for opportunities](mailto:aminw999mn@gmail.com)
 
 ### **About This Project**
 This REST API showcase was built to demonstrate modern backend development skills, Docker containerization expertise, and professional software engineering practices. It represents the kind of production-ready code that powers enterprise applications.
